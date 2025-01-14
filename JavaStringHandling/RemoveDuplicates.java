@@ -6,7 +6,7 @@ public class RemoveDuplicates {
         // Create a Scanner object to take user input
         Scanner sc = new Scanner(System.in);
 
-        // Prompt the user to enter a string
+        // the user to enter a string
         System.out.println("Enter the string:");
         String s1 = sc.next(); // Read the user input string and store it in variable s1
 
